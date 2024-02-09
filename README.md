@@ -2,9 +2,6 @@
 
 ![Codewars](https://www.codewars.com/users/antdbs/badges/large)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antdbs&layout=compact) -->
-
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antdbs&layout=compact&langs_count=8&card_width=320" />
 </a>
@@ -34,11 +31,11 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 
 <img title="" height=45 src="">
 
-| Left-aligned   | Center-aligned |
+| Catégorie      | Logo           |
 | :---           |     :---:      |
 | Prog           | <img title="python" height=45 style="float: right;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> |
 | Framework      | <img title="fastapi" height=45 src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"> |
-| Base de donnée | git diff       |
+| Base de donnée | <img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> <img title="redis" height=45 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"> |
 
 
 ### Prog 
@@ -47,7 +44,6 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 ### Framework 
 </br><img title="fastapi" height=45 src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
 <img height=45 src="">
-[https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg](https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg)
 
 ### Base de donnée 
 </br><img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> 
