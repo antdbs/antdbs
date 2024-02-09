@@ -1,6 +1,8 @@
 ## 📊💡 Passionné de la Data et Expert en Transformation de Données 🚀🌐
 
 ![Codewars](https://www.codewars.com/users/antdbs/badges/large)
+<img align="center" src="https://www.codewars.com/users/antdbs/badges/large">
+
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antdbs&layout=compact&langs_count=8&card_width=320" />
