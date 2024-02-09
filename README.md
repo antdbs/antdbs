@@ -34,20 +34,20 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 
 <img title="" height=45 src="">
 
-Prog : 
+### Prog 
 </br><img title="python" height=45 style="float: right;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
-Framework : 
-<img title="fastapi" height=45 src="https://github.com/devicons/devicon/tree/master/icons/fastapi">
+### Framework 
+</br><img title="fastapi" height=45 src="https://github.com/devicons/devicon/tree/master/icons/fastapi">
 <img height=45 src="">
 
-Base de donnée : 
-<img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> 
+### Base de donnée 
+</br><img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> 
 <img title="redis" height=45 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
 <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
 
-Opérationnel : 
-<img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+### Opérationnel 
+</br><img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 
 
 ## Ce que je veux apprendre ou approffondir
