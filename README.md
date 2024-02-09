@@ -1,12 +1,7 @@
 ## 📊💡 Passionné de la Data et Expert en Transformation de Données 🚀🌐
 
-![Codewars](https://www.codewars.com/users/antdbs/badges/large)
 <img align="center" src="https://www.codewars.com/users/antdbs/badges/large">
 
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antdbs&layout=compact&langs_count=8&card_width=320" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=antdbs" />
 </a>
@@ -31,8 +26,6 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 
 ## Language et outil
 
-<img title="" height=45 src="">
-
 | Catégorie      | Logo           |
 | :---           |     :---:      |
 | Prog           | <img title="python" height=45 style="float: right;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> |
@@ -45,7 +38,10 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 
 | Techno      | Avancement  |
 |    :---:    | :---        |           
-| <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"> | [chapitre 4.2 References ans borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)   
+| <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"> | - [X]  [chapitre 4.2 References ans borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html) | 
+| <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"> | - [ ] |
+| <img title="" height=45 src=""> | - [ ]  |
+
 
 
 ## Loisir
