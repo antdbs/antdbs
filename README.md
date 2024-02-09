@@ -1,4 +1,4 @@
-### 📊💡 Passionné de la Data et Expert en Transformation de Données 🚀🌐
+## 📊💡 Passionné de la Data et Expert en Transformation de Données 🚀🌐
 
 ![Codewars](https://www.codewars.com/users/antdbs/badges/large)
 
@@ -12,6 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=antdbs" />
 </a>
 
+## Qui suis-je ?
 
 En tant que Data Engineer, j'ai eu le privilège de travailler dans le passionnant domaine de la Data, où chaque jour apporte de nouvelles opportunités d'apprentissage et de croissance. Ma mission actuelle consiste à concevoir et à mettre en œuvre des pipelines ETL et ELT, à explorer la puissance de Python et Pentaho, ainsi qu'à créer des visualisations percutantes avec Power BI pour donner vie aux données.
 
@@ -29,8 +30,33 @@ En dehors du bureau, je suis un coureur passionné et j'aime développer des jeu
 
 N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaitez discuter de projets stimulants liés à la Data, à la technologie ou à tout autre sujet. Ensemble, nous pouvons façonner l'avenir de la Data !
 
-#DataEngineer #DataTransformation #Analytics #TechEnthusiast #PassionForLearning
+## Language et outil
 
+[]()
+
+Prog : 
+- [Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+
+Framework : 
+- [FastAPI](https://github.com/devicons/devicon/tree/master/icons/fastapi)
+- [Pandas]()
+
+Base de donnée : 
+- [PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg)
+
+Opérationnel : 
+- [Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
+
+
+## Ce que je veux apprendre ou approffondir
+
+Prog : 
+- [Rust]() : j'attaque tous juste le [chapitre 4.2 References ans borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)
+
+## Loisir
+
+Développer des jeux-vidéo
+La technologie & la programmation
 
 <!--
 **antdbs/antdbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
