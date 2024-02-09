@@ -34,47 +34,19 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 | Catégorie      | Logo           |
 | :---           |     :---:      |
 | Prog           | <img title="python" height=45 style="float: right;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> |
-| Framework      | <img title="fastapi" height=45 src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"> |
-| Base de donnée | <img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> <img title="redis" height=45 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"> |
-
-
-### Prog 
-</br><img title="python" height=45 style="float: right;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-
-### Framework 
-</br><img title="fastapi" height=45 src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
-<img height=45 src="">
-
-### Base de donnée 
-</br><img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> 
-<img title="redis" height=45 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
-<img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
-
-### Opérationnel 
-</br><img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+| Framework      | <img title="fastapi" height=45 src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"> <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"> |
+| Base de donnée | <img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> <img title="redis" height=45 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"> <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg"> |
+| Opérationnel   | <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> |
 
 
 ## Ce que je veux apprendre ou approffondir
 
-Prog : 
-- [Rust]() : j'attaque tous juste le [chapitre 4.2 References ans borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)
+| Techno      | Avancement  |
+|    :---:    | :---        |           
+| <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"> | [chapitre 4.2 References ans borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)   
+
 
 ## Loisir
 
-Développer des jeux-vidéo
+Développer des jeux-vidéo sous Unity 
 La technologie & la programmation
-
-<!--
-**antdbs/antdbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
