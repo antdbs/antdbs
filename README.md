@@ -6,10 +6,10 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antdbs&layout=compact&langs_count=8&card_width=320" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antdbs&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antdbs" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=antdbs" />
 </a>
 
 ## Qui suis-je ?
@@ -36,6 +36,7 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 
 Prog : 
 - [Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+- ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
 
 Framework : 
 - [FastAPI](https://github.com/devicons/devicon/tree/master/icons/fastapi)
