@@ -42,7 +42,6 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 |    :---:    | :---        |           
 | <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"> | :white_check_mark: [chapitre 4.2 References ans borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html) | 
 | <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"> | :clock4: Non planifié pour l'instant |
-| <img title="" height=45 src=""> | - [ ]  |
 
 
 ## Loisir
