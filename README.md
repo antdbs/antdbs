@@ -32,23 +32,17 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 
 ## Language et outil
 
-[]()
+<img title="" height=45 src="">
 
-Prog : 
-- <img height=35 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-- <img height=35 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+Prog : <img title="python" height=45 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
+Framework : <img title="fastapi" height=45 src="https://github.com/devicons/devicon/tree/master/icons/fastapi"> | Pandas <img height=45 src="">
 
-Framework : 
-- [FastAPI](https://github.com/devicons/devicon/tree/master/icons/fastapi)
-- [Pandas]()
-
-Base de donnée : 
-- [PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg)
+Base de donnée : <img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> <img title="redis" height=45 src="https://github.com/devicons/devicon/tree/master/icons/redis">
 
 Opérationnel : 
-- [Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
-- <img height=35 src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg">
+- <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+- <img height=35 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
 
 
 ## Ce que je veux apprendre ou approffondir
