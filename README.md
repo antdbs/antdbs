@@ -2,6 +2,8 @@
 
 <p align="center"> 
   <img align="center" src="https://www.codewars.com/users/antdbs/badges/large">
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antdbs&layout=compact&langs_count=8&card_width=320" />
 </p>
 
