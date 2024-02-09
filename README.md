@@ -35,14 +35,14 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 | Opérationnel   | <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> |
 
 
+
 ## Ce que je veux apprendre ou approffondir
 
 | Techno      | Avancement  |
 |    :---:    | :---        |           
-| <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"> | - [X]  [chapitre 4.2 References ans borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html) | 
-| <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"> | - [ ] |
+| <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"> | [X]  [chapitre 4.2 References ans borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html) | 
+| <img title="" height=45 src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"> | [ ] |
 | <img title="" height=45 src=""> | - [ ]  |
-
 
 
 ## Loisir
