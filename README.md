@@ -36,7 +36,8 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 
 Prog : 
 - [Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-- ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+- <img height=10 src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+
 
 Framework : 
 - [FastAPI](https://github.com/devicons/devicon/tree/master/icons/fastapi)
