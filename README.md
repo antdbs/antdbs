@@ -35,7 +35,7 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 <img title="" height=45 src="">
 
 Prog : 
-<img title="python" height=45 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img title="python" height=45 style="float: right;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 Framework : 
 <img title="fastapi" height=45 src="https://github.com/devicons/devicon/tree/master/icons/fastapi">
