@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://www.codewars.com/users/antdbs/badges/large
+![Codewars](https://www.codewars.com/users/antdbs/badges/large)
 
 ![Codewars](https://github.r2v.ch/codewars?user=antdbs&stroke=%23BB432C)
 
