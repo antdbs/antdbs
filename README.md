@@ -38,8 +38,9 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 </br><img title="python" height=45 style="float: right;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 ### Framework 
-</br><img title="fastapi" height=45 src="https://github.com/devicons/devicon/tree/master/icons/fastapi">
+</br><img title="fastapi" height=45 src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
 <img height=45 src="">
+[https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg](https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg)
 
 ### Base de donnée 
 </br><img title="postgresql" height=45 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> 
