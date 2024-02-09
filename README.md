@@ -35,8 +35,8 @@ N'hésitez pas à me contacter si vous partagez mes passions ou si vous souhaite
 []()
 
 Prog : 
-- [Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-- <img height=25 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+- <img height=35 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+- <img height=35 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 
 Framework : 
@@ -48,6 +48,7 @@ Base de donnée :
 
 Opérationnel : 
 - [Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
+- <img height=35 src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg">
 
 
 ## Ce que je veux apprendre ou approffondir
